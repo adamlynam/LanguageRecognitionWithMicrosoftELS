@@ -1,0 +1,8 @@
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\ExtendedLinguisticServices\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.xml
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\ExtendedLinguisticServices\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\ExtendedLinguisticServices\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.pdb
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\ExtendedLinguisticServices\obj\Debug\ExtendedLinguisticServices.csprojResolveAssemblyReference.cache
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\ExtendedLinguisticServices\obj\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.Resources.LocalizedMessages.resources
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\ExtendedLinguisticServices\obj\Debug\ExtendedLinguisticServices.csproj.GenerateResource.Cache
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\ExtendedLinguisticServices\obj\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\ExtendedLinguisticServices\obj\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.pdb

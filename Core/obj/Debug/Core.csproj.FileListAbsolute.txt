@@ -1,0 +1,8 @@
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\Core\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\Core\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\Core\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\Core\obj\Debug\Microsoft.WindowsAPICodePack.Resources.LocalizedMessages.resources
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\Core\obj\Debug\Core.csproj.GenerateResource.Cache
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\Core\obj\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Mad_Fool\Documents\Visual Studio 2013\Projects\WindowsAPICodePack-master\WindowsAPICodePack\Core\obj\Debug\Microsoft.WindowsAPICodePack.pdb
